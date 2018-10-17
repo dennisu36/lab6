@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pallette</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="colorsArray">
+        <item>WHITE</item>
+        <item>CYAN</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>RED</item>
+    </string-array>
+</resources>
